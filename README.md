@@ -5,4 +5,4 @@ Cara Run :
 1. `npm i` / `npm install`
 2. `npm run start-dev` / `npm run serve`
 
-atau link 
+atau link movie-catalogue-puce.vercel.app
